@@ -1,5 +1,7 @@
 # The Repo Man
 
+*Illustrative scenario — a composite sketch, not a real person.*
+
 ## The repo
 
 He took people's cars for a living. Nine years. Nobody ever thanked him.
@@ -12,7 +14,7 @@ He took people's cars for a living. Nine years. Nobody ever thanked him.
 
 ## The fork
 
-A security consultancy brought him in to train de-escalation. Their curriculum was theory; his was nine years of driveways at 2 AM. He taught their people the thirty-second read, the voice that lowers instead of raises, and when to walk away. Incident reports dropped. Nobody calms a furious man like someone who's taken his truck and lived.
+Picture the fork: a security consultancy whose de-escalation curriculum is all theory. His is nine years of driveways at 2 AM. He'd teach their people the thirty-second read, the voice that lowers instead of raises, and when to walk away.
 
 ## The lesson
 
