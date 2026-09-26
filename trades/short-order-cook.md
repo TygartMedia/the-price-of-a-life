@@ -1,5 +1,7 @@
 # The Short-Order Cook
 
+*Illustrative scenario — a composite sketch, not a real person.*
+
 ## The repo
 
 Friday night, six burners, a ticket rail full of orders, the health inspector watching, and a fryer that only works if you kick it. She ran that kitchen for eleven years.
@@ -12,7 +14,7 @@ Friday night, six burners, a ticket rail full of orders, the health inspector wa
 
 ## The fork
 
-An emergency department hired her to redesign triage intake. Same skill, different domain: fourteen patients instead of fourteen tickets, the rail is a whiteboard, the fryer that needs kicking is a CT scanner with a queue. Wait times dropped. Nobody in the hospital had ever thought of the waiting room as a ticket rail.
+Picture the fork: an emergency department rethinking triage intake. Fourteen patients instead of fourteen tickets, the rail is a whiteboard, the fryer that needs kicking is a CT scanner with a queue. Nobody in the hospital has ever thought of the waiting room as a ticket rail — she has eleven years of Friday nights that say otherwise.
 
 ## The lesson
 
