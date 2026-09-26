@@ -1,5 +1,7 @@
 # The Bartender
 
+*Illustrative scenario — a composite sketch, not a real person.*
+
 ## The repo
 
 Twenty years behind the stick. She has heard ten thousand confessions she was never meant to hear.
@@ -12,7 +14,7 @@ Twenty years behind the stick. She has heard ten thousand confessions she was ne
 
 ## The fork
 
-A product team hired her to run user interviews. Their researchers got polite fiction; she got the truth. People told her what they actually hated about the product, the way they'd told her everything else for twenty years. The roadmap changed. The researchers started training in "bartender mode": no agenda, only a glass.
+Picture the fork: a product team whose researchers keep getting polite fiction out of user interviews. She'd get the truth — people would tell her what they actually hate about the product, the way they've told her everything else for twenty years. The team's researchers would start training in "bartender mode": no agenda, only a glass.
 
 ## The lesson
 
