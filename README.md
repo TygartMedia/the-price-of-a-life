@@ -26,9 +26,11 @@ The machine changed the access pattern. It can read the world now. Which means t
 
 Now imagine we open-source it. Not your code — your *ability*.
 
-Your life becomes a public repo. Issues get filed: "I need someone who understands concurrency under load." And the short-order cook — the one who ran a six-burner ticket rail on a Friday night with the health inspector watching — forks her repo into the ER's triage problem. Merged. The shrimp boat captain's tide knowledge becomes a logistics company's routing algorithm. He had Dijkstra in his bones; he just called it water.
+Your life becomes a public repo. Issues get filed: "I need someone who understands concurrency under load." And the short-order cook — the one who ran a six-burner ticket rail on a Friday night with the health inspector watching — could fork her repo into the ER's triage problem. The shrimp boat captain's tide knowledge could become a logistics company's routing algorithm. He had Dijkstra in his bones; he just called it water.
 
-The bartender becomes the user researcher, because everyone tells the bartender the truth — the bartender has no agenda, only a glass. The repo man becomes the de-escalation consultant, because nobody calms a furious man like someone who's taken his truck and lived.
+The bartender could become the user researcher, because everyone tells the bartender the truth — the bartender has no agenda, only a glass. The repo man could become the de-escalation consultant, because nobody calms a furious man like someone who's taken his truck and lived.
+
+These are sketches, not case studies — see [`trades/`](trades/) for the first forks, each labeled as the illustration it is.
 
 This is what diversity actually is. Not the checkbox kind. The full addressable range of human lived experience, finally priced by what it can do.
 
@@ -54,5 +56,5 @@ MIT. Take it. Build on it. Just don't pretend the machine wrote your scars.
 
 ---
 
-*Read the essay version with audio narration at tygartmedia.com (link coming).*
+*Read the essay version with audio narration at [tygartmedia.com/the-price-of-a-life](https://tygartmedia.com/the-price-of-a-life/).*
 *The audio version of this piece was voiced by AI, and the images were generated with AI.*
