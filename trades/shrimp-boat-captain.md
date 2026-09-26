@@ -1,5 +1,7 @@
 # The Shrimp Boat Captain
 
+*Illustrative scenario — a composite sketch, not a real person.*
+
 ## The repo
 
 Thirty years on the water. He could read a tide the way you read a dashboard — and he was usually right before the instruments were.
@@ -12,7 +14,7 @@ Thirty years on the water. He could read a tide the way you read a dashboard —
 
 ## The fork
 
-A logistics company brought him in on routing. He looked at their "optimal" paths and laughed — they'd routed straight through what he called "afternoon water." He redrew their coastal freight lanes around tide windows and weather patterns no model had weighted properly. Fuel costs dropped. He'd been running Dijkstra since before it had a name. He just called it water.
+Picture the fork: a logistics company wrestling with coastal routing. Their "optimal" paths run straight through what he'd call "afternoon water." He'd redraw their lanes around tide windows and weather patterns no model weighted properly. He'd been running Dijkstra since before it had a name. He just called it water.
 
 ## The lesson
 
